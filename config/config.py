@@ -118,7 +118,7 @@ PING_IMG_URL = getenv(
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "assets/Playlist.jpeg",
+    "https://ar-hosting.pages.dev/1745324801370.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
